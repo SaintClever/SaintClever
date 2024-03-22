@@ -1,13 +1,13 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQEFdCIG4t5P9A/profile-displaybackgroundimage-shrink_350_1400/0/1702406210655?e=1716422400&v=beta&t=qxjIqkyCkKNoM4FFT30Is1b_5Grb0_1ywUT2ZjQmk8M">
 
-<h2 align="left">Connect with me:</h2>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://linkedin.com/in/https://linkedin.com/in/parchment" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/parchment" height="30" width="40"/>
   </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h4 align="left">Languages and Tools:</h4>
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
