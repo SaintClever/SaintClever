@@ -1,3 +1,3 @@
 <a href="https://linkedin.com/in/parchment/" target="_blank" rel="noreferrer">
-  <img src="https://media.licdn.com/dms/image/D4E16AQEFdCIG4t5P9A/profile-displaybackgroundimage-shrink_350_1400/0/1702406210655?e=1721865600&v=beta&t=hDF8CM5IRehx-02V_B77gxx_Yn2DD1n-PuZXn1Xg2Xs" alt="Nesta (Saint. Clever) Parchment">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEFdCIG4t5P9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702406210655?e=1731542400&v=beta&t=Rm896UNVZd50G-uNO0qzpIg9AJXHNTnVciSTUgs13fM" alt="Nesta (Saint. Clever) Parchment">
 </a>
